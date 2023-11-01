@@ -1,0 +1,41 @@
+Alternativa "1.2(X)" foi marcada 74 vezes.
+Alternativa "1.3(X)" foi marcada 55 vezes.
+Alternativa "3.5(X)" foi marcada 22 vezes.
+Alternativa "2.1(X)" foi marcada 61 vezes.
+Alternativa "1.1(X)" foi marcada 80 vezes.
+Alternativa "3.2(X)" foi marcada 78 vezes.
+Alternativa "4.1(X)" foi marcada 87 vezes.
+Alternativa "5.2(X)" foi marcada 56 vezes.
+Alternativa "6.1(X)" foi marcada 54 vezes.
+Alternativa "1.4(X)" foi marcada 16 vezes.
+Alternativa "2.2(X)" foi marcada 26 vezes.
+Alternativa "6.4(X)" foi marcada 18 vezes.
+Alternativa "1.5(X)" foi marcada 17 vezes.
+Alternativa "3.1(X)" foi marcada 19 vezes.
+Alternativa "5.5(X)" foi marcada 45 vezes.
+Alternativa "6.5(X)" foi marcada 30 vezes.
+Alternativa "6.2(X)" foi marcada 8 vezes.
+Alternativa "4.4(X)" foi marcada 7 vezes.
+Alternativa "2.3(X)" foi marcada 10 vezes.
+Alternativa "5.1(X)" foi marcada 13 vezes.
+Alternativa "6.3(X)" foi marcada 10 vezes.
+Alternativa "4.3(X)" foi marcada 12 vezes.
+Alternativa "4.5(X)" foi marcada 12 vezes.
+Alternativa "5.3(X)" foi marcada 2 vezes.
+Alternativa "2.5(X)" foi marcada 15 vezes.
+Alternativa "2.4(X)" foi marcada 3 vezes.
+Alternativa "3.3(X)" foi marcada 2 vezes.
+Alternativa "4.2(X)" foi marcada 3 vezes.
+Alternativa "3.4(X)" foi marcada 1 vezes.
+Alternativa "5.4(X)" foi marcada 2 vezes.
+
+Alternativa "7.2(X)" foi marcada 99 vezes.
+Alternativa "7.3(X)" foi marcada 1 vezes.
+Alternativa "7.5(X)" foi marcada 4 vezes.
+Alternativa "7.4(X)" foi marcada 2 vezes.
+Alternativa "7.1(X)" foi marcada 15 vezes.
+
+Total de respostas: 959
+Total de formulários analisados: 124
+Total de homens: 48
+Total de mulheres: 76

@@ -1,0 +1,10 @@
+além dos 12 arquivos incorretos compostos por 6 formularios com alternativas marcadas com mais de uma alternativa e outros 6 com questão não repondidas,o formato como foram dispostas as numeraçãoes das questões tornam inviavel a analize dos dados, 
+
+um total de 135 arquivos analizados sendo que aproxiadamente 124 estão integros
+
+dos 124 arquivos gerados 89 tiveram que ser corrjidos a mão para garantir integridades dos dados
+
+o formato como foram dispostos as questão com o numero das alterntivas iguais torna inviavel o uso de um programa de verificação de integridade
+e comparação das peguntas entre formularios, sem considerar fatores como heterogeneidade da estrutura do formulario pois fatores como iluminação, contrate da luz dificultam analize com base nas perguntas
+
+o software desenvolvido para analize dos dados se elevaria muito em preço para uma analize como essa
