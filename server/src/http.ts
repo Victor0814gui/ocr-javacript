@@ -20,13 +20,11 @@ app.use(convertImageInTextRoute)
 
 app.post('/multipart-upload', upload.single("photo"), (req, res) => {
   // You can access other HTTP parameters. They are located in the body object.
-  console.log(req.body);
   res.end('OK');
 });
 
 app.post('/files-upload', upload.array('photo', 140), (req, res) => {
   // You can access other HTTP parameters. They are located in the body object.
-  console.log(req.body);
   res.end('OK');
 });
 
