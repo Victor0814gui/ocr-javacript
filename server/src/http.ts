@@ -19,7 +19,6 @@ app.use(readImage)
 app.use(convertImageInTextRoute)
 
 app.post('/multipart-upload', upload.single("photo"), (req, res) => {
-  // You can access other HTTP parameters. They are located in the body object.
   res.end('OK');
 });
 

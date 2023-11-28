@@ -21,8 +21,8 @@ readImage.get("/image", async (req, res) => {
 
     filterFiles.forEach(async file => {
       orientationCorrection(file)
-
     });
+
   })
   return res.send()
 })

@@ -1,5 +1,5 @@
-import { createWorker } from "tesseract.js";
 import fs from "fs";
+import { createWorker } from "tesseract.js";
 
 export async function convertImageInText(pathName: string) {
   const worker = await createWorker('eng');
